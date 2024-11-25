@@ -664,12 +664,12 @@ video {
   margin-left: -90px;
 }
 
-.ml-\[125px\] {
-  margin-left: 125px;
+.ml-\[100px\] {
+  margin-left: 100px;
 }
 
-.ml-\[150px\] {
-  margin-left: 150px;
+.ml-\[125px\] {
+  margin-left: 125px;
 }
 
 .ml-\[200px\] {
@@ -746,6 +746,50 @@ video {
 
 .mt-\[80px\] {
   margin-top: 80px;
+}
+
+.ml-\[300px\] {
+  margin-left: 300px;
+}
+
+.ml-\[\] {
+  margin-left: ;
+}
+
+.ml-\[-100px\] {
+  margin-left: -100px;
+}
+
+.ml-\[-300px\] {
+  margin-left: -300px;
+}
+
+.ml-\[-320px\] {
+  margin-left: -320px;
+}
+
+.ml-\[320px\] {
+  margin-left: 320px;
+}
+
+.ml-\[30px\] {
+  margin-left: 30px;
+}
+
+.ml-\[280px\] {
+  margin-left: 280px;
+}
+
+.ml-\[-50px\] {
+  margin-left: -50px;
+}
+
+.ml-\[-5px\] {
+  margin-left: -5px;
+}
+
+.ml-\[-40px\] {
+  margin-left: -40px;
 }
 
 .flex {
@@ -1070,11 +1114,6 @@ video {
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
-}
-
-.px-5 {
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
 }
 
 .py-16 {
