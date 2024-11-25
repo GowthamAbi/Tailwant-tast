@@ -808,6 +808,26 @@ video {
   margin-top: -30px;
 }
 
+.mt-\[-50px\] {
+  margin-top: -50px;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.mt-\[480px\] {
+  margin-top: 480px;
+}
+
+.mt-\[180px\] {
+  margin-top: 180px;
+}
+
+.mt-\[320px\] {
+  margin-top: 320px;
+}
+
 .flex {
   display: flex;
 }
@@ -874,6 +894,10 @@ video {
 
 .h-full {
   height: 100%;
+}
+
+.h-\[580px\] {
+  height: 580px;
 }
 
 .w-16 {
